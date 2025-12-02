@@ -13,6 +13,7 @@ mcServer.createMCServer({
       'worldHeight': 80
     }
   },
+  'version': '1.21.4',
   'kickTimeout': 10000,
   'plugins': {
 
